@@ -1,40 +1,57 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:AB0640,100:1F3A6E&height=220&section=header&text=Geunho%20Shim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Focused%20Ultrasound%20Researcher&descSize=20&descAlignY=60" width="100%" />
+
 <div align="center">
 
-# Hi, I'm Geunho Shim 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=AB0640&center=true&vCenter=true&width=640&lines=Focused+Ultrasound;Transcranial+Ultrasound;Transducer+Design;Blood%E2%80%93Brain+Barrier+Opening;Brain+Hyperthermia;Navigation+System" alt="Research areas" /></a>
 
-**Focused Ultrasound Researcher**
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Kyung%20Hee%20University-AB0640?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Neumous-1F65B0?style=for-the-badge" />
-</p>
-<p>
-  <a href="mailto:sgh0918@khu.ac.kr"><img src="https://img.shields.io/badge/sgh0918%40khu.ac.kr-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/khu_dark.png">
+  <img src="assets/khu_light.png" height="62" alt="Kyung Hee University" />
+</picture>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="assets/neumous.svg" height="62" alt="Neumous" />
+
+<sub><b>Kyung Hee University</b> &nbsp;·&nbsp; <b>Neumous</b></sub>
+
+<br/><br/>
+
+<a href="mailto:sgh0918@khu.ac.kr"><img src="https://img.shields.io/badge/Email-sgh0918%40khu.ac.kr-AB0640?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-### 🔬 Research Interests
+## 🔬 Research Interests
 
-| | |
-|---|---|
-| 🔊 | **Focused Ultrasound** |
-| 🧠 | **Transcranial Ultrasound** |
-| 📡 | **Transducer Design** |
-| 🧬 | **Blood–Brain Barrier Opening (BBBO)** |
-| 🔥 | **Brain Hyperthermia** |
-| 🧭 | **Navigation System** |
+<table align="center">
+<tr>
+<td align="center" width="200"><img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Speaker%20high%20volume/3D/speaker_high_volume_3d.png" width="56" /><br/><b>Focused Ultrasound</b></td>
+<td align="center" width="200"><img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Brain/3D/brain_3d.png" width="56" /><br/><b>Transcranial Ultrasound</b></td>
+<td align="center" width="200"><img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Satellite%20antenna/3D/satellite_antenna_3d.png" width="56" /><br/><b>Transducer Design</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Dna/3D/dna_3d.png" width="56" /><br/><b>BBB Opening</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Fire/3D/fire_3d.png" width="56" /><br/><b>Brain Hyperthermia</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Compass/3D/compass_3d.png" width="56" /><br/><b>Navigation System</b></td>
+</tr>
+</table>
 
-### 🛠️ Tools
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/k--Wave-E67E22?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3D%20Slicer-1F65B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,matlab,sklearn,qt,git,vscode&perline=6" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/k--Wave-E67E22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/3D%20Slicer-1F65B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A6E,100:AB0640&height=120&section=footer" width="100%" />
