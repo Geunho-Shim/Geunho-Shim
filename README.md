@@ -19,6 +19,7 @@
 
 <a href="mailto:sgh0918@khu.ac.kr"><img src="https://img.shields.io/badge/Email-sgh0918%40khu.ac.kr-AB0640?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://migt.khu.ac.kr/"><img src="https://img.shields.io/badge/MIGT%20Lab-Homepage-1F3A6E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0009-1336-7323"><img src="https://img.shields.io/badge/ORCID-0009--0009--1336--7323-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=Geunho-Shim&label=Profile%20views&color=AB0640&style=flat-square" />
 
@@ -55,8 +56,8 @@
 
 | | | |
 |:---:|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="36" /> | **M.S.**, Kyung Hee University<br/><sub>Integrated B.S.–M.S. program · <a href="https://migt.khu.ac.kr/">MIGT Lab</a></sub> | `Sep 2026 – Feb 2028 (expected)` |
-| <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/School/3D/school_3d.png" width="36" /> | **B.S.**, Kyung Hee University | `Mar 2021 – Aug 2026` |
+| <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="36" /> | **M.S. in Biomedical Engineering**, Kyung Hee University<br/><sub>Integrated B.S.–M.S. program · <a href="https://migt.khu.ac.kr/">MIGT Lab</a></sub> | `Sep 2026 – Feb 2028 (expected)` |
+| <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji@main/assets/School/3D/school_3d.png" width="36" /> | **B.S. in Biomedical Engineering**, Kyung Hee University | `Mar 2021 – Aug 2026` |
 
 ## 💼 Experience
 
